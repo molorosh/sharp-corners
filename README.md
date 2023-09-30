@@ -20,16 +20,16 @@ then the process runs ... (chug, chug, chug)
 ## the basics
 obviously you can start the project locally with:
 
-  ng serve
+`ng serve`
 
 also you can specify the port with:
 
-  ng serve --port 8080
+`ng serve --port 8080`
 
 you can build the project for deployment with
 
-  ng build
+`ng build`
 
-which packages your webapp to the /dist/ folder
+which packages your webapp to the `/dist/` folder
 
 
